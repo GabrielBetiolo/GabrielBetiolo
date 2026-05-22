@@ -2,7 +2,7 @@
 
 # Gabriel Betiolo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff003c&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious+Always+Building" />
 
 </div>
 
@@ -52,11 +52,7 @@ Always curious. Always building.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbetiolo&theme=midnight-purple&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrielbetiolo&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbetiolo&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbetiolo&theme=shadow_red&hide_border=true"/>
 
 </div>
 
@@ -91,11 +87,11 @@ Always curious. Always building.
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/>
 </a>
 
 <a href="mailto:gabrielbetiolo2020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
 </a>
 
 </div>
