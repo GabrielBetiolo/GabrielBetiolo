@@ -34,6 +34,8 @@
 
 # Tech Stack
 
+<img src="https://img.shields.io/badge/Tech_Stack-black?style=for-the-badge&logo=visualstudiocode&logoColor=red&labelColor=black&color=red"/>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma&theme=dark" />
@@ -49,6 +51,10 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbetiolo&theme=shadow_red&hide_border=true"/>
 
 </div>
+
+---
+
+<img src="https://img.shields.io/badge/Activity_Graph-black?style=for-the-badge&logo=googleanalytics&logoColor=red&labelColor=black&color=red"/>
 
 ---
 
