@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><font color="#ff003c" face="Fira Code, Courier New, monospace">Gabriel Betiolo</font></h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=435&lines=Gabriel+Betiolo" alt="Gabriel Betiolo" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff003c&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious;Always+Building" />
 
