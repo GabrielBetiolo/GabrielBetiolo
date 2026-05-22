@@ -69,10 +69,10 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/gabriel__betiolo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff003c"/></a><a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/></a><a href="mailto:gabrielbetiolo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/></a>
+<a href="https://www.instagram.com/gabriel__betiolo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/></a><a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/></a><a href="mailto:gabrielbetiolo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/></a>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10,20,30&height=120&section=footer" />
 
 </div>
