@@ -52,9 +52,11 @@ Always curious. Always building.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbetiolo&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbetiolo&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbetiolo&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrielbetiolo&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbetiolo&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
