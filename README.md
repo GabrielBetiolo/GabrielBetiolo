@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=435&lines=Gabriel+Betiolo" alt="Gabriel Betiolo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=500&lines=Gabriel+Betiolo" alt="Gabriel Betiolo" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff003c&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious;Always+Building" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=ff003c&center=true&vCenter=true&width=500&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious;Always+Building" />
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/%22If%20it%20can%20be%20optimized%2C%20scripted%2C%20or%20rebuilt%2C%20I'm%20probably%20interested%20in%20it.%22-transparent?style=flat&labelColor=transparent&color=ff003c"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=750&lines=%22If+it+can+be+optimized%2C+scripted%2C+or+rebuilt%2C+I'm+probably+interested+in+it.%22" />
+
+</div>
 
 ---
 
