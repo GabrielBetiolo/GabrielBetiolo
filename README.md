@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+<img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=red&labelColor=black&color=red"/>
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Tech_Stack-black?style=for-the-badge&logo=visualstudiocode&logoColor=red&labelColor=black&color=red"/>
+<img src="https://img.shields.io/badge/Tech_Stack-black?style=for-the-badge&logo=codeforces&logoColor=red&labelColor=black&color=red"/>
 
 <div align="center">
 
