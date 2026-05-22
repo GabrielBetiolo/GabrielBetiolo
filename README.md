@@ -30,16 +30,28 @@ currently_learning:
   - Vue.js
 ```
 
-<div align="center">
+<p align="center">
 
+<span style="color:#ff4d6d">
+
+⚙️ My interests range from
 ```diff
 + ⚙️ Network Infrastructure
 + ⚙️ Hardware Maintenance
 + ⚙️ Web Development
 + ⚙️ Cyber Security
 ```
+<br><br>
 
-</div>
+Right now I'm learning Vue.js and having fun building more dynamic interfaces.
+
+<br><br>
+
+Always curious. Always building.
+
+</span>
+
+</p>
 
 ---
 
