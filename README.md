@@ -21,3 +21,22 @@ focus:
   - Hardware Repair
 currently_learning:
   - Vue.js
+
+⚙️ My interests range from network infrastructure and hardware maintenance to web development.
+Right now I'm learning Vue.js and having fun building more dynamic interfaces.
+
+Always curious. Always building.
+
+Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma&theme=dark" /> </div>
+GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/> </div>
+Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=000000&hide_border=true"/> </div>
+Spotify
+<div align="center">
+
+</div>
+Connect With Me
+<div align="center"> <a href="https://www.instagram.com/gabriel__betiolo/"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/> </a> <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/> </a> <a href="mailto:gabrielbetiolo2020@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=120&section=footer"/> </div> ```
