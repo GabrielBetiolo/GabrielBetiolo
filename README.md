@@ -16,43 +16,18 @@
 
 ## About Me
 
-```yaml
-name: Gabriel Betiolo
-role: Web Developer
+<div align="center">
 
-focus:
-  - Web Development
-  - Cyber Security
-  - Linux
-  - Hardware Repair
-
-currently_learning:
-  - Vue.js
-```
-
-<p align="center">
-
-<span style="color:#ff4d6d">
-
-⚙️ My interests range from
 ```diff
 + ⚙️ Network Infrastructure
 + ⚙️ Hardware Maintenance
 + ⚙️ Web Development
 + ⚙️ Cyber Security
++ ⚙️ Linux Enthusiast
++ ⚙️ Currently learning Vue.js
 ```
-<br><br>
 
-Right now I'm learning Vue.js and having fun building more dynamic interfaces.
-
-<br><br>
-
-Always curious. Always building.
-
-</span>
-
-</p>
-
+</div>
 ---
 
 # Tech Stack
