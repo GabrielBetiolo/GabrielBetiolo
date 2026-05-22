@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<i>"If it can be optimized, scripted, or rebuilt, I'm probably interested in it."</i>
+<img src="https://img.shields.io/badge/%22If%20it%20can%20be%20optimized%2C%20scripted%2C%20or%20rebuilt%2C%20I'm%20probably%20interested%20in%20it.%22-transparent?style=flat&labelColor=transparent&color=ff003c"/>
 </p>
 
 ---
