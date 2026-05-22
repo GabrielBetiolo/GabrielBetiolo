@@ -54,6 +54,10 @@
 
 # Activity Graph
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Activity_Graph-red?style=for-the-badge" />
+</p>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBetiolo&theme=react-dark&hide_border=true"/>
