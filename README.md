@@ -74,7 +74,7 @@ Always curious. Always building.
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://novatorem.vercel.app/api/spotify)]([https://open.spotify.com/](https://open.spotify.com/user/nnf31dnzcjbatlmna63xkj0l8))
 
 </div>
 
