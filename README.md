@@ -31,9 +31,6 @@
 
 ---
 
-
-# Tech Stack
-
 <img src="https://img.shields.io/badge/Tech_Stack-black?style=for-the-badge&logo=visualstudiocode&logoColor=red&labelColor=black&color=red"/>
 
 <div align="center">
@@ -57,8 +54,6 @@
 <img src="https://img.shields.io/badge/Activity_Graph-black?style=for-the-badge&logo=googleanalytics&logoColor=red&labelColor=black&color=red"/>
 
 ---
-
-# Activity Graph
 
 <p align="center">
   <img src="https://img.shields.io/badge/Activity_Graph-red?style=for-the-badge" />
