@@ -65,10 +65,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=red&labelColor=black&color=red"/>
-
----
-
 <img src="https://img.shields.io/badge/Connect_With_Me-black?style=for-the-badge&logo=handshake&logoColor=red&labelColor=black&color=red"/>
 
 <div align="center">
