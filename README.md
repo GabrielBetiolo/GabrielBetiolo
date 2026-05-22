@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GabrielBetiolo/GabrielBetiolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Gabriel Betiolo
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious+Always+Building" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```ascii
+> "If it can be optimized, scripted, or rebuilt,
+> I'm probably interested in it."
+
+name: Gabriel Betiolo
+role: Web Developer
+focus:
+  - Web Development
+  - Cyber Security
+  - Linux
+  - Hardware Repair
+currently_learning:
+  - Vue.js
