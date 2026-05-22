@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=500&lines=Gabriel+Betiolo" alt="Gabriel Betiolo" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=60&text=Gabriel%20Betiolo&fontSize=34&fontColor=ff003c&fontAlign=50&fontAlignY=50&desc=&animation=" alt="Gabriel Betiolo" />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1&pause=0&color=ff003c&center=true&vCenter=true&width=750&lines=%22If+it+can+be+optimized%2C+scripted%2C+or+rebuilt%2C+I'm+probably+interested+in+it.%22" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22If%20it%20can%20be%20optimized,%20scripted,%20or%20rebuilt,%20I'm%20probably%20interested%20in%20it.%22&fontSize=15&fontColor=ff003c&fontAlign=50&fontAlignY=50&desc=&animation=" />
 
 </div>
 
