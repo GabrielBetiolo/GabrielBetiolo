@@ -1,8 +1,10 @@
 <div align="center">
 
-# Gabriel Betiolo
+<img src="https://img.shields.io/badge/Gabriel_Betiolo-black?style=for-the-badge&logo=github&logoColor=red&labelColor=black&color=red"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff003c&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious+Always+Building" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff003c&center=true&vCenter=true&width=435&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious;Always+Building" />
 
 </div>
 
