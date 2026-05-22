@@ -30,11 +30,16 @@ currently_learning:
   - Vue.js
 ```
 
-⚙️ My interests range from network infrastructure and hardware maintenance to web development.
+<div align="center">
 
-Right now I'm learning Vue.js and having fun building more dynamic interfaces.
+```diff
++ ⚙️ Network Infrastructure
++ ⚙️ Hardware Maintenance
++ ⚙️ Web Development
++ ⚙️ Cyber Security
+```
 
-Always curious. Always building.
+</div>
 
 ---
 
@@ -100,6 +105,6 @@ Always curious. Always building.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
 
 </div>
