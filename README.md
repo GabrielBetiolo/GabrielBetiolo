@@ -23,12 +23,12 @@
 <div align="center">
 
 ```diff
-- ⚙️ Network Infrastructure
-- ⚙️ Hardware Maintenance
-- ⚙️ Web Development
-- ⚙️ Cyber Security
-- ⚙️ Linux Enthusiast
-- ⚙️ Currently learning Vue.js
+-  Network Infrastructure
+-  Hardware Maintenance
+-  Web Development
+-  Cyber Security
+-  Linux Enthusiast
+-  Currently learning Vue.js
 ```
 
 </div>
