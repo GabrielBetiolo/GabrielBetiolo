@@ -42,7 +42,7 @@
 
 ---
 
-# GitHub Stats
+<img src="https://img.shields.io/badge/GitHub_Stats-black?style=for-the-badge&logo=github&logoColor=red&labelColor=black&color=red"/>
 
 <div align="center">
 
