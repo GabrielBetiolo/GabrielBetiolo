@@ -69,13 +69,13 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><a href="https://www.instagram.com/gabriel__betiolo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/></a></td>
-    <td><a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a></td>
-    <td><a href="mailto:gabrielbetiolo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.instagram.com/gabriel__betiolo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:gabrielbetiolo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/></a>
+</p>
 
 ---
 
