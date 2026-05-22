@@ -18,16 +18,14 @@
 
 <div align="center">
 
-<h3>
-<font color="red">
-⚙️ Network Infrastructure <br>
-⚙️ Hardware Maintenance <br>
-⚙️ Web Development <br>
-⚙️ Cyber Security <br>
-⚙️ Linux Enthusiast <br>
-⚙️ Currently learning Vue.js
-</font>
-</h3>
+```diff
+- ⚙️ Network Infrastructure
+- ⚙️ Hardware Maintenance
+- ⚙️ Web Development
+- ⚙️ Cyber Security
+- ⚙️ Linux Enthusiast
+- ⚙️ Currently learning Vue.js
+```
 
 </div>
 
@@ -45,24 +43,6 @@
 ---
 
 # GitHub Stats
-## About Me
-
-<div align="center">
-
-<h3>
-<font color="red">
-⚙️ Network Infrastructure <br>
-⚙️ Hardware Maintenance <br>
-⚙️ Web Development <br>
-⚙️ Cyber Security <br>
-⚙️ Linux Enthusiast <br>
-⚙️ Currently learning Vue.js
-</font>
-</h3>
-
-</div>
-
----
 
 <div align="center">
 
