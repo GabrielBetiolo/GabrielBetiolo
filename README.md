@@ -19,7 +19,8 @@
 <div align="center">
 
 <span style="color:red">
-  
+
+````md
 ```diff
 - ⚙️ Network Infrastructure
 - ⚙️ Hardware Maintenance
@@ -28,10 +29,13 @@
 - ⚙️ Linux Enthusiast
 - ⚙️ Currently learning Vue.js
 ```
+````
+
 </span>
 
 </div>
 ---
+
 
 # Tech Stack
 
