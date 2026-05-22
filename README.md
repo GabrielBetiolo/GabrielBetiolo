@@ -57,8 +57,6 @@
 
 <img src="https://img.shields.io/badge/Activity_Graph-black?style=for-the-badge&logo=googleanalytics&logoColor=red&labelColor=black&color=red"/>
 
----
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBetiolo&bg_color=0d1117&color=ff5555&line=ff0000&point=ffffff&area=true&area_color=8b0000&hide_border=true"/>
