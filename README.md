@@ -67,7 +67,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff1a4d"/>
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-white&logoColor=ff4d6d"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:gabrielbetiolo2020@gmail.com">
