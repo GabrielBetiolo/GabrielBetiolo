@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22If%20it%20can%20be%20optimized,%20scripted,%20or%20rebuilt,%20I'm%20probably%20interested%20in%20it.%22&fontSize=15&fontColor=ff003c&fontAlign=50&fontAlignY=50&desc=&animation=" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Being%20a%20programmer%20is%20learning%20every%20day,%20there%20is%20no%20finish%20line.%22&fontSize=15&fontColor=ff003c&fontAlign=50&fontAlignY=50&desc=&animation=" />
 
 </div>
 
