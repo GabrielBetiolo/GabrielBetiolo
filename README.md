@@ -23,7 +23,7 @@
 <br><br>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=180&width=450&text=%20%20-%20Network%20Infrastructure%0A%20%20%20%20-%20Hardware%20Maintenance%0A%20%20%20%20%20%20-%20Web%20Development%0A%20%20%20%20%20%20-%20Cyber%20Security%0A%20%20%20%20%20%20-%20Linux%20Enthusiast%0A%20%20-%20Currently%20learning%20Vue.js&fontSize=16&fontColor=ff003c&fontAlign=0&fontAlignY=10&animation=" alt="About Me List" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&width=500&text=ESCREVA_AQUI&fontSize=18&fontColor=ff003c&fontAlign=0&fontAlignY=50" />
 </div>
 
 ---
