@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&logo=user&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
+<img src="https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
 <div align="left">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=aqui&fontSize=18&fontColor=ff4d6d&fontAlign=5&fontAlignY=50" />
