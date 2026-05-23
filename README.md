@@ -20,10 +20,8 @@
 
 <img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=red&labelColor=black&color=red"/>
 
-<br><br>
-
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&width=200&text=ESCREVA_AQUI&fontSize=18&fontColor=ff003c&fontAlign=0&fontAlignY=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=ESCREVA_AQUI&fontSize=18&fontColor=ff003c&fontAlign=0&fontAlignY=50" />
 </div>
 
 ---
