@@ -20,18 +20,20 @@
 
 <img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=red&labelColor=black&color=red"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=ffffff&labelColor=black&color=ff003c"/>
 
-```diff
--  Network Infrastructure
--  Hardware Maintenance
--  Web Development
--  Cyber Security
--  Linux Enthusiast
--  Currently learning Vue.js
-```
+<br><br>
 
-</div>
+<p align="left">
+  <font color="#ff003c" face="Fira Code, monospace">
+    &nbsp;&nbsp;- Network Infrastructure<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- Hardware Maintenance<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web Development<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cyber Security<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Linux Enthusiast<br>
+    &nbsp;&nbsp;- Currently learning Vue.js
+  </font>
+</p>
 
 ---
 
