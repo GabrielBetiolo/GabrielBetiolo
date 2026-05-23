@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=55&text=OPEN%20TO%20WORK&fontSize=32&fontColor=ff1a4d&animation=blinking&fontAlign=50&fontAlignY=50" />
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=60&text=Gabriel%20Betiolo&fontSize=34&fontColor=ff1a4d&fontAlign=50&fontAlignY=50&desc=&animation=" alt="Gabriel Betiolo" />
 
 <br>
