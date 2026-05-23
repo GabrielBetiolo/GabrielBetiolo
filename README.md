@@ -56,26 +56,30 @@
 
 ---
 
+---
+
 <img src="https://img.shields.io/badge/Connect_With_Me-0d1117?style=for-the-badge&logo=handshake&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
 <div align="center">
 
-<p align="center">
-  <a href="https://www.instagram.com/gabriel__betiolo/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4d6d"/>
-  </a>
+<a href="https://www.instagram.com/gabriel__betiolo/">
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4d6d"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff1a4d"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gabrielbetiolo2020@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d"/>
+</a>
 
-  &nbsp;&nbsp;
+</div>
 
-  <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff1a4d"/>
-  </a>
+---
 
-  &nbsp;&nbsp;
+<div align="center">
 
-  <a href="mailto:gabrielbetiolo2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=120&section=footer"/>
 
 </div>
