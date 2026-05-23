@@ -20,20 +20,11 @@
 
 <img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=red&labelColor=black&color=red"/>
 
-<img src="https://img.shields.io/badge/About_Me-black?style=for-the-badge&logo=userstack&logoColor=ffffff&labelColor=black&color=ff003c"/>
-
 <br><br>
 
-<p align="left">
-  <font color="#ff003c" face="Fira Code, monospace">
-    &nbsp;&nbsp;- Network Infrastructure<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Hardware Maintenance<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web Development<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cyber Security<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Linux Enthusiast<br>
-    &nbsp;&nbsp;- Currently learning Vue.js
-  </font>
-</p>
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=180&width=450&text=%20%20-%20Network%20Infrastructure%0A%20%20%20%20-%20Hardware%20Maintenance%0A%20%20%20%20%20%20-%20Web%20Development%0A%20%20%20%20%20%20-%20Cyber%20Security%0A%20%20%20%20%20%20-%20Linux%20Enthusiast%0A%20%20-%20Currently%20learning%20Vue.js&fontSize=16&fontColor=ff003c&fontAlign=0&fontAlignY=10&animation=" alt="About Me List" />
+</div>
 
 ---
 
