@@ -26,9 +26,16 @@
 
 <img src="https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&logo=googlescholar&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
-<div align="left">
+<table border="0">
+<tr>
+<td valign="middle" width="75%">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Hello,%20my%20name%20is%20Gabriel,%20I'm%2020%20years%20old,%20I'm%20studying%20the%205th%20period%20of%20information%20systems%20at%20UTFPR-Francisco%20Beltrao.%22&fontSize=14&fontColor=ff4d6d&fontAlign=50&fontAlignY=50" />
-</div>
+</td>
+<td valign="middle" align="center" width="25%">
+<img src="https://i.imgur.com/8903VWz.jpeg" width="160px"/>
+</td>
+</tr>
+</table>
 
 ---
 
