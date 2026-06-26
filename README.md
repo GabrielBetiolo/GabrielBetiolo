@@ -67,18 +67,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub_Stats-0d1117?style=for-the-badge&logo=github&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielBetiolo&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&custom_title=Betiolo%20Statistics"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBetiolo&theme=shadow_red&hide_border=true&ring=ff1a4d&fire=ff4d6d&currStreakLabel=ff8097"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBetiolo&theme=github_dark"/>
-</div>
-
----
-
 <img src="https://img.shields.io/badge/Activity_Graph-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBetiolo&bg_color=0d1117&color=ff4d6d&line=ff1a4d&point=ff4d6d&area=true&area_color=660014&hide_border=true&custom_title=Betiolo's%20Contribution%20Graph"/>
