@@ -4,24 +4,23 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
-[![GitHub followers](https://img.shields.io/github/followers/GabrielBetiolo?label=Follow&style=social)](https://github.com/SEU_USUARIO)
+[![GitHub followers](https://img.shields.io/github/followers/GabrielBetiolo?label=Follow&style=social)](https://github.com/GabrielBetiolo)
 
 ## ⚡ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux,aws,azure,gcp&theme=dark" />
 </p>
 
 ## 🚀 Projects
 
 - [SightAgro](https://github.com/GabrielBetiolo/Sight_Agro.git) — Full control of farms for small, medium and large producers
 
-
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1a4d&icon_color=ff4d6d&text_color=c9d1d9" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1a4d&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GabrielBetiolo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1a4d&icon_color=ff4d6d&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBetiolo&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1a4d&text_color=c9d1d9" />
 </p>
 
 ## 📫 Let's Connect
