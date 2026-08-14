@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff1a4d&height=180&section=header&text=Gabriel%20Betiolo&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a4d,100:ff4d6d&height=180&section=header&text=Gabriel%20Betiolo&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
 # Hi, my name is Gabriel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
