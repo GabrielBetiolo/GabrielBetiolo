@@ -18,8 +18,8 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=GabrielBetiolo&hide_border=true&background=0d1117&ring=ff1a4d&fire=ff4d6d&currStreakLabel=ff1a4d&sideLabels=c9d1d9&dates=8b949e" height="150" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
 </p>
 
 ## 📫 Let's Connect
