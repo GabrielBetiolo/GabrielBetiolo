@@ -67,12 +67,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Activity_Graph-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBetiolo&bg_color=0d1117&color=ff4d6d&line=ff1a4d&point=ff4d6d&area=true&area_color=660014&hide_border=true&custom_title=Betiolo's%20Contribution%20Graph"/>
-</div
-  
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=120&section=footer"/>
