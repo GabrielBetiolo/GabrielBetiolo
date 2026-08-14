@@ -5,6 +5,7 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
 
+
 ## ⚡ Technologies & Tools
 
 <p align="left">
