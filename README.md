@@ -4,7 +4,7 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff1a4d&height=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ⚡ Technologies & Tools
 
