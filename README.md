@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a4d,100:ff4d6d&height=180&section=header&text=Gabriel%20Betiolo&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%"/>
+
 # Hi, my name is Gabriel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm a 20-year-old developer from Brazil, currently in the 5th semester of Information Systems at UTFPR - Francisco Beltrão. I build for the web, break things to understand how they work, and spend the rest of my time inside a Linux terminal or fixing hardware nobody else wanted to touch.
