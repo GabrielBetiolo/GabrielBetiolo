@@ -19,8 +19,7 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielBetiolo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1a4d&icon_color=ff4d6d&text_color=c9d1d9" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielBetiolo&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1a4d&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=GabrielBetiolo&hide_border=true&background=0d1117&ring=ff1a4d&fire=ff4d6d&currStreakLabel=ff1a4d&sideLabels=c9d1d9&dates=8b949e" height="150" />
 </p>
 
 ## 📫 Let's Connect
