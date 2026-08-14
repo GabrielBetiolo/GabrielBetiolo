@@ -4,7 +4,6 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
-[![GitHub followers](https://img.shields.io/github/followers/GabrielBetiolo?label=Follow&style=for-the-badge&logo=github&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d)](https://github.com/GabrielBetiolo)
 
 ## ⚡ Technologies & Tools
 
