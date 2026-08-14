@@ -14,9 +14,8 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 ## 🚀 Projects
 
-- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
-- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
-- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
+- [SightAgro](https://github.com/GabrielBetiolo/Sight_Agro.git) — Full control of farms for small, medium and large producers
+
 
 ## 📈 GitHub Stats
 
