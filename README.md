@@ -35,3 +35,5 @@ Open to work and always up for talking about code, security or a broken motherbo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff1a4d?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff1a4d?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__betiolo/)
 [![Gmail](https://img.shields.io/badge/Contact_Me-Gmail-ff1a4d?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbetiolo2020@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=80&section=footer" width="100%"/>
