@@ -1,47 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=55&text=OPEN%20TO%20WORK&fontSize=32&fontColor=ff1a4d&animation=blinking&fontAlign=50&fontAlignY=50" />
-</div>
+# Hi, my name is Gabriel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=60&text=Gabriel%20Betiolo&fontSize=34&fontColor=ff1a4d&fontAlign=50&fontAlignY=50" alt="Gabriel Betiolo" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff1a4d&center=true&vCenter=true&width=500&lines=Web+Developer;Cyber+Security+Enthusiast;Linux+User;Hardware+Repairman;Always+Curious;Always+Building" alt="Typing SVG" />
-</div>
+I'm a 20-year-old developer from Brazil, currently in the 5th semester of Information Systems at UTFPR - Francisco Beltrão. I build for the web, break things to understand how they work, and spend the rest of my time inside a Linux terminal or fixing hardware nobody else wanted to touch.
 
----
+💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Being%20a%20programmer%20is%20learning%20every%20day,%20there%20is%20no%20finish%20line.%22&fontSize=15&fontColor=ff4d6d&fontAlign=50&fontAlignY=50" />
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/GabrielBetiolo?label=Follow&style=social)](https://github.com/SEU_USUARIO)
 
-<img src="https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&logo=googlescholar&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d" alt="About Me"/>
+## ⚡ Technologies & Tools
 
-<div align="center">
-  <img src="COLE_AQUI_A_URL_DA_IMAGEM" width="100%" alt="banner"/>
-  <br><br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Hello,%20my%20name%20is%20Gabriel,%20I'm%2020%20years%20old,%20I'm%20studying%20the%205th%20period%20of%20information%20systems%20at%20UTFPR-Francisco%20Beltrao.%22&fontSize=14&fontColor=ff4d6d&fontAlign=50&fontAlignY=50" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux&theme=dark" />
+</p>
 
-<img src="https://img.shields.io/badge/Tech_Stack-0d1117?style=for-the-badge&logo=codeforces&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d" alt="Tech Stack"/>
+## 🚀 Projects
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma&theme=dark" />
-</div>
+- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
+- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
+- [Nome do projeto](link) — uma linha do que ele faz e qual problema resolve
 
----
+## 📈 GitHub Stats
 
-<img src="https://img.shields.io/badge/Connect_With_Me-0d1117?style=for-the-badge&logo=handshake&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d" alt="Connect With Me"/>
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1a4d&icon_color=ff4d6d&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1a4d&text_color=c9d1d9" />
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/gabriel__betiolo/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4d6d"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-white&logoColor=ff4d6d"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gabrielbetiolo2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d"/>
-  </a>
-</div>
+## 📫 Let's Connect
+
+Open to work and always up for talking about code, security or a broken motherboard.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff1a4d?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff1a4d?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__betiolo/)
+[![Gmail](https://img.shields.io/badge/Contact_Me-Gmail-ff1a4d?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbetiolo2020@gmail.com)
