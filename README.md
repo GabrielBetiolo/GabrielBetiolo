@@ -4,7 +4,7 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=80&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ⚡ Technologies & Tools
 
@@ -12,15 +12,21 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux,aws,azure,gcp&theme=dark" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 🚀 Projects
 
 - [SightAgro](https://github.com/GabrielBetiolo/Sight_Agro.git) — Full control of farms for small, medium and large producers
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBetiolo&theme=radical" alt="Profile Details" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📫 Let's Connect
 
