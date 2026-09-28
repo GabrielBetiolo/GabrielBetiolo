@@ -11,7 +11,8 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 ## ⚡ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux,aws,azure,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux,kali,aws,azure,gcp&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg" height="48" alt="CrowdStrike Falcon" title="CrowdStrike Falcon" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
