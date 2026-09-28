@@ -33,7 +33,11 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBetiolo&theme=radical" alt="Profile Details" />
-</p>                                                    
+</p>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielBetiolo&label=PROFILE%20VIEWS&color=B3133D&style=flat-square" alt="Views" />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=80&section=footer" width="100%"/>
