@@ -19,8 +19,8 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 ## 🚀 Projects
 
 - [SightAgro](https://github.com/GabrielBetiolo/Sight_Agro.git) — Full control of farms for small, medium and large producers
-- Apps de esporte em desenvolvimento
-- CRM próprio em desenvolvimento
+- Finishing sports app
+- CRM in development
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
