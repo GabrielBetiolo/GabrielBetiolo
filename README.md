@@ -2,7 +2,7 @@
 
 # Hi, my name is Gabriel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a 20-year-old developer from Brazil, currently in the 6th semester of Information Systems at UTFPR - Francisco Beltrão. I build for the web, break things to understand how they work, and spend the rest of my time inside a Linux terminal or fixing hardware nobody else wanted to touch.
+I'm a 20-year-old developer from Brazil, currently in the 5th semester of Information Systems at UTFPR - Francisco Beltrão. I build for the web, break things to understand how they work, and spend the rest of my time inside a Linux terminal or fixing hardware nobody else wanted to touch.
 
 💻 Web Developer | 🔐 Cyber security/offensive security and Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
@@ -11,7 +11,9 @@ I'm a 20-year-old developer from Brazil, currently in the 6th semester of Inform
 ## ⚡ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,prisma,github,vercel,vscode,figma,linux,kali,aws,azure,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,js,vue,prisma,vercel,docker,supabase&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dokploy-dark.svg" height="48" alt="Dokploy" title="Dokploy" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,aws,azure,gcp,linux,kali&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg" height="48" alt="CrowdStrike Falcon" title="CrowdStrike Falcon" />
 </p>
 
