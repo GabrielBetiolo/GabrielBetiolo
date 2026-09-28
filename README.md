@@ -4,7 +4,7 @@
 
 I'm a 20-year-old developer from Brazil, currently in the 5th semester of Information Systems at UTFPR - Francisco Beltrão. I build for the web, break things to understand how they work, and spend the rest of my time inside a Linux terminal or fixing hardware nobody else wanted to touch.
 
-💻 Web Developer | 🔐 Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
+💻 Web Developer | 🔐 Cyber security/offensive security and Cloud Computing Enthusiast | 🐧 Linux User | 🔧 Hardware Repairman
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
