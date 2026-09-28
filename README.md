@@ -27,14 +27,6 @@ I'm a 20-year-old developer from Brazil, currently in the 5th semester of Inform
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBetiolo&theme=radical" alt="Profile Details" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 📫 Let's Connect
 
 Open to work and always up for talking about code, security or a broken motherboard.
@@ -44,13 +36,21 @@ Open to work and always up for talking about code, security or a broken motherbo
 [![Gmail](https://img.shields.io/badge/Contact_Me-Gmail-ff1a4d?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbetiolo2020@gmail.com)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-                                              ██████╗ ███████╗████████╗██╗  ██████╗ ██╗      ██████╗ 
-                                              ██╔══██╗██╔════╝╚══██╔══╝██║ ██╔═══██╗██║     ██╔═══██╗
-                                              ██████╔╝█████╗     ██║   ██║ ██║   ██║██║     ██║   ██║
-                                              ██╔══██╗██╔══╝     ██║   ██║ ██║   ██║██║     ██║   ██║
-                                              ██████╔╝███████╗   ██║   ██║ ╚██████╔╝███████╗╚██████╔╝
-                                              ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═════╝ ╚══════╝ ╚═════╝ 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBetiolo&theme=radical" alt="Profile Details" />
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+                                                ██████╗ ███████╗████████╗██╗  ██████╗ ██╗      ██████╗                                                           
+                                                ██╔══██╗██╔════╝╚══██╔══╝██║ ██╔═══██╗██║     ██╔═══██╗
+                                                ██████╔╝█████╗     ██║   ██║ ██║   ██║██║     ██║   ██║
+                                                ██╔══██╗██╔══╝     ██║   ██║ ██║   ██║██║     ██║   ██║
+                                                ██████╔╝███████╗   ██║   ██║ ╚██████╔╝███████╗╚██████╔╝
+                                                ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═════╝ ╚══════╝ ╚═════╝ 
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=80&section=footer" width="100%"/>
