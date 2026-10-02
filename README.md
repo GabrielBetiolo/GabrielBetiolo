@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a4d,100:ff4d6d&height=180&section=header&text=Gabriel%20Betiolo&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielBetiolo/GabrielBetiolo/main/open-to-work.gif" width="420" alt="OPEN TO WORK">
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff1a4d?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felixtrowich-betiolo-9b425a266/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff1a4d?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__betiolo/) [![Gmail](https://img.shields.io/badge/Contact_Me-Gmail-ff1a4d?style=flat&logo=gmail&logoColor=white)](mailto:gabrielbetiolo2020@gmail.com)         
 
 # Hi, my name is Gabriel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
